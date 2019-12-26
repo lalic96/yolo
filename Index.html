@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kontakt</title>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,700|Fjalla+One|Noto+Sans|Permanent+Marker&display=swap&subset=latin-ext"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="fonts/font-awesome.min.css" />
+    <link rel="stylesheet" href="font/flaticon.css" />
+    <link rel="stylesheet" href="CSS/bootstrap.min.css" />
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="stylesheet" href="bojan.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 logo-slika">
+          <img class="img-fluid" src="oi_logo.png" alt="logo" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 naslov text-center">
+          <h2>Zahtjev za ugovaranje platne kartice:</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-10 text-left text">
+          <p>
+            Želim studentski tekući račun s prepaid MasterCard karticom i
+            prihvaćam opće uvjete poslovanja!
+          </p>
+        </div>
+        <div class="col-1 text-center checkbox">
+          <label
+            ><span><input type="checkbox"/></span
+          ></label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 naslov text-center">
+          <h2>Udaljena identifikacija fizičke osobe</h2>
+        </div>
+      </div>
+      <div clas="row">
+        <div class="col-12 text-center text">
+          <p>Vrsta osobnog dokumenta</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6 text-center polje">
+          <label>
+            <input
+              type="radio"
+              value="Osobna iskaznica"
+              checked="checked"
+              name="radio"
+            />
+            Osobna iskaznica
+          </label>
+        </div>
+        <div class="col-6 text-center polje">
+          <label>
+            <input
+              type="radio"
+              value="Putovnica"
+              checked="checked"
+              name="radio"
+            />
+            Putovnica
+          </label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6 Col-sm-12 fotografija-naslov text-center flex">
+          <h2>Selfi fotografija</h2>
+          <br />
+          <img id="output1" class="slike-att" />
+          <label for="selfi1" class="file-upload">
+            <ion-icon name="camera"></ion-icon>
+          </label>
+          <br />
+          <input
+            id="selfi1"
+            type="file"
+            accept="image/*;capture=camcorder"
+            onchange="loadFile(event)"
+            class="input-att hide-input"
+          />
+          <span id="selfi1-name"></span>
+        </div>
+        <div class="col-6 Col-sm-12 fotografija-naslov text-center flex">
+          <h2>Selfi fotografija</h2>
+          <br />
+          <img id="output2" class="slike-att" />
+          <label for="selfi2" class="file-upload">
+            <ion-icon name="camera"></ion-icon>
+          </label>
+          <br />
+          <input
+            id="selfi2"
+            type="file"
+            accept="image/*;capture=camcorder"
+            onchange="loadFile(event)"
+            class="input-att hide-input"
+          />
+          <span id="selfi2-name"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6 Col-sm-12 fotografija-naslov text-center flex">
+          <h2>Selfi fotografija</h2>
+          <br />
+          <img id="output3" class="slike-att" />
+          <label for="selfi3" class="file-upload">
+            <ion-icon name="camera"></ion-icon>
+          </label>
+          <br />
+          <input
+            id="selfi3"
+            type="file"
+            accept="image/*;capture=camcorder"
+            onchange="loadFile(event)"
+            class="input-att hide-input"
+          />
+          <span id="selfi3-name"></span>
+        </div>
+        <div class="col-6 Col-sm-12 fotografija-naslov text-center flex">
+          <h2>Selfi fotografija</h2>
+          <br />
+
+          <img id="output4" class="slike-att" />
+          <label for="selfi4" class="file-upload">
+            <ion-icon name="camera"></ion-icon>
+          </label>
+          <br />
+          <input
+            id="selfi4"
+            type="file"
+            accept="image/*;capture=camcorder"
+            onchange="loadFile(event)"
+            class="input-att hide-input"
+          />
+          <span id="selfi4-name"></span>
+        </div>
+      </div>
+    </div>
+
+    <script
+      async
+      defer
+      crossorigin="anonymous"
+      src="https://connect.facebook.net/sr_RS/sdk.js#xfbml=1&version=v3.3"
+    ></script>
+    <script
+      type="text/javascript"
+      src="http://code.jquery.com/jquery-1.9.1.js"
+    ></script>
+    <script src="JS/jquery-3.3.1.slim.min.js"></script>
+    <script src="JS/popper.min.js"></script>
+    <script src="JS/bootstrap.min.js"></script>
+    <script src="JS/main.js"></script>
+
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+    <script src="bojan.js"></script>
+  </body>
+</html>

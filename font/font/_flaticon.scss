@@ -1,0 +1,239 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:25
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-accordion:before { content: "\f100"; }
+.flaticon-acoustic-guitar:before { content: "\f101"; }
+.flaticon-acoustic-guitar-1:before { content: "\f102"; }
+.flaticon-african-drum:before { content: "\f103"; }
+.flaticon-amplifier:before { content: "\f104"; }
+.flaticon-amplifier-1:before { content: "\f105"; }
+.flaticon-amplifier-2:before { content: "\f106"; }
+.flaticon-amplifier-3:before { content: "\f107"; }
+.flaticon-amplifier-4:before { content: "\f108"; }
+.flaticon-audio-mixer:before { content: "\f109"; }
+.flaticon-backpack:before { content: "\f10a"; }
+.flaticon-bass-guitar:before { content: "\f10b"; }
+.flaticon-bass-guitar-1:before { content: "\f10c"; }
+.flaticon-bass-guitar-2:before { content: "\f10d"; }
+.flaticon-beer-bottle:before { content: "\f10e"; }
+.flaticon-beer-can:before { content: "\f10f"; }
+.flaticon-big-hat:before { content: "\f110"; }
+.flaticon-big-screen:before { content: "\f111"; }
+.flaticon-burger:before { content: "\f112"; }
+.flaticon-cable:before { content: "\f113"; }
+.flaticon-cash:before { content: "\f114"; }
+.flaticon-cello:before { content: "\f115"; }
+.flaticon-chair:before { content: "\f116"; }
+.flaticon-chimes:before { content: "\f117"; }
+.flaticon-clarinet:before { content: "\f118"; }
+.flaticon-cymbals:before { content: "\f119"; }
+.flaticon-debit-card:before { content: "\f11a"; }
+.flaticon-dj-mixer:before { content: "\f11b"; }
+.flaticon-drum-set:before { content: "\f11c"; }
+.flaticon-electric-guitar:before { content: "\f11d"; }
+.flaticon-electric-guitar-1:before { content: "\f11e"; }
+.flaticon-electric-guitar-2:before { content: "\f11f"; }
+.flaticon-electric-keyboard:before { content: "\f120"; }
+.flaticon-equipment-box:before { content: "\f121"; }
+.flaticon-equipment-box-1:before { content: "\f122"; }
+.flaticon-event-tent:before { content: "\f123"; }
+.flaticon-fan:before { content: "\f124"; }
+.flaticon-fences:before { content: "\f125"; }
+.flaticon-grand-piano:before { content: "\f126"; }
+.flaticon-guest-room:before { content: "\f127"; }
+.flaticon-guest-star:before { content: "\f128"; }
+.flaticon-hand:before { content: "\f129"; }
+.flaticon-hand-1:before { content: "\f12a"; }
+.flaticon-hand-2:before { content: "\f12b"; }
+.flaticon-hand-3:before { content: "\f12c"; }
+.flaticon-hand-4:before { content: "\f12d"; }
+.flaticon-harmonica:before { content: "\f12e"; }
+.flaticon-hot-dog:before { content: "\f12f"; }
+.flaticon-lighting:before { content: "\f130"; }
+.flaticon-lighting-1:before { content: "\f131"; }
+.flaticon-lighting-2:before { content: "\f132"; }
+.flaticon-lighting-3:before { content: "\f133"; }
+.flaticon-lighting-4:before { content: "\f134"; }
+.flaticon-lighting-5:before { content: "\f135"; }
+.flaticon-lighting-6:before { content: "\f136"; }
+.flaticon-lighting-7:before { content: "\f137"; }
+.flaticon-lights:before { content: "\f138"; }
+.flaticon-lights-1:before { content: "\f139"; }
+.flaticon-lights-2:before { content: "\f13a"; }
+.flaticon-litghting:before { content: "\f13b"; }
+.flaticon-metal-shirt:before { content: "\f13c"; }
+.flaticon-microphone:before { content: "\f13d"; }
+.flaticon-microphone-1:before { content: "\f13e"; }
+.flaticon-microphone-2:before { content: "\f13f"; }
+.flaticon-microphone-3:before { content: "\f140"; }
+.flaticon-microphone-4:before { content: "\f141"; }
+.flaticon-mixer:before { content: "\f142"; }
+.flaticon-mixer-button:before { content: "\f143"; }
+.flaticon-music:before { content: "\f144"; }
+.flaticon-music-1:before { content: "\f145"; }
+.flaticon-music-festival-poster:before { content: "\f146"; }
+.flaticon-pocket-camera:before { content: "\f147"; }
+.flaticon-rockstar-shirt:before { content: "\f148"; }
+.flaticon-saxophon:before { content: "\f149"; }
+.flaticon-sound-mixer:before { content: "\f14a"; }
+.flaticon-sound-system:before { content: "\f14b"; }
+.flaticon-speaker:before { content: "\f14c"; }
+.flaticon-speaker-1:before { content: "\f14d"; }
+.flaticon-speaker-2:before { content: "\f14e"; }
+.flaticon-speaker-3:before { content: "\f14f"; }
+.flaticon-speaker-4:before { content: "\f150"; }
+.flaticon-speaker-5:before { content: "\f151"; }
+.flaticon-speaker-6:before { content: "\f152"; }
+.flaticon-speaker-7:before { content: "\f153"; }
+.flaticon-sportlights:before { content: "\f154"; }
+.flaticon-stage:before { content: "\f155"; }
+.flaticon-stage-1:before { content: "\f156"; }
+.flaticon-stage-equipment:before { content: "\f157"; }
+.flaticon-steps:before { content: "\f158"; }
+.flaticon-tamborine:before { content: "\f159"; }
+.flaticon-tent:before { content: "\f15a"; }
+.flaticon-ticket:before { content: "\f15b"; }
+.flaticon-toilet-paper:before { content: "\f15c"; }
+.flaticon-trombone:before { content: "\f15d"; }
+.flaticon-trumpet:before { content: "\f15e"; }
+.flaticon-turntable:before { content: "\f15f"; }
+.flaticon-violin:before { content: "\f160"; }
+.flaticon-vip:before { content: "\f161"; }
+.flaticon-washable-shoes:before { content: "\f162"; }
+.flaticon-water-bottle:before { content: "\f163"; }
+    
+    $font-Flaticon-accordion: "\f100";
+    $font-Flaticon-acoustic-guitar: "\f101";
+    $font-Flaticon-acoustic-guitar-1: "\f102";
+    $font-Flaticon-african-drum: "\f103";
+    $font-Flaticon-amplifier: "\f104";
+    $font-Flaticon-amplifier-1: "\f105";
+    $font-Flaticon-amplifier-2: "\f106";
+    $font-Flaticon-amplifier-3: "\f107";
+    $font-Flaticon-amplifier-4: "\f108";
+    $font-Flaticon-audio-mixer: "\f109";
+    $font-Flaticon-backpack: "\f10a";
+    $font-Flaticon-bass-guitar: "\f10b";
+    $font-Flaticon-bass-guitar-1: "\f10c";
+    $font-Flaticon-bass-guitar-2: "\f10d";
+    $font-Flaticon-beer-bottle: "\f10e";
+    $font-Flaticon-beer-can: "\f10f";
+    $font-Flaticon-big-hat: "\f110";
+    $font-Flaticon-big-screen: "\f111";
+    $font-Flaticon-burger: "\f112";
+    $font-Flaticon-cable: "\f113";
+    $font-Flaticon-cash: "\f114";
+    $font-Flaticon-cello: "\f115";
+    $font-Flaticon-chair: "\f116";
+    $font-Flaticon-chimes: "\f117";
+    $font-Flaticon-clarinet: "\f118";
+    $font-Flaticon-cymbals: "\f119";
+    $font-Flaticon-debit-card: "\f11a";
+    $font-Flaticon-dj-mixer: "\f11b";
+    $font-Flaticon-drum-set: "\f11c";
+    $font-Flaticon-electric-guitar: "\f11d";
+    $font-Flaticon-electric-guitar-1: "\f11e";
+    $font-Flaticon-electric-guitar-2: "\f11f";
+    $font-Flaticon-electric-keyboard: "\f120";
+    $font-Flaticon-equipment-box: "\f121";
+    $font-Flaticon-equipment-box-1: "\f122";
+    $font-Flaticon-event-tent: "\f123";
+    $font-Flaticon-fan: "\f124";
+    $font-Flaticon-fences: "\f125";
+    $font-Flaticon-grand-piano: "\f126";
+    $font-Flaticon-guest-room: "\f127";
+    $font-Flaticon-guest-star: "\f128";
+    $font-Flaticon-hand: "\f129";
+    $font-Flaticon-hand-1: "\f12a";
+    $font-Flaticon-hand-2: "\f12b";
+    $font-Flaticon-hand-3: "\f12c";
+    $font-Flaticon-hand-4: "\f12d";
+    $font-Flaticon-harmonica: "\f12e";
+    $font-Flaticon-hot-dog: "\f12f";
+    $font-Flaticon-lighting: "\f130";
+    $font-Flaticon-lighting-1: "\f131";
+    $font-Flaticon-lighting-2: "\f132";
+    $font-Flaticon-lighting-3: "\f133";
+    $font-Flaticon-lighting-4: "\f134";
+    $font-Flaticon-lighting-5: "\f135";
+    $font-Flaticon-lighting-6: "\f136";
+    $font-Flaticon-lighting-7: "\f137";
+    $font-Flaticon-lights: "\f138";
+    $font-Flaticon-lights-1: "\f139";
+    $font-Flaticon-lights-2: "\f13a";
+    $font-Flaticon-litghting: "\f13b";
+    $font-Flaticon-metal-shirt: "\f13c";
+    $font-Flaticon-microphone: "\f13d";
+    $font-Flaticon-microphone-1: "\f13e";
+    $font-Flaticon-microphone-2: "\f13f";
+    $font-Flaticon-microphone-3: "\f140";
+    $font-Flaticon-microphone-4: "\f141";
+    $font-Flaticon-mixer: "\f142";
+    $font-Flaticon-mixer-button: "\f143";
+    $font-Flaticon-music: "\f144";
+    $font-Flaticon-music-1: "\f145";
+    $font-Flaticon-music-festival-poster: "\f146";
+    $font-Flaticon-pocket-camera: "\f147";
+    $font-Flaticon-rockstar-shirt: "\f148";
+    $font-Flaticon-saxophon: "\f149";
+    $font-Flaticon-sound-mixer: "\f14a";
+    $font-Flaticon-sound-system: "\f14b";
+    $font-Flaticon-speaker: "\f14c";
+    $font-Flaticon-speaker-1: "\f14d";
+    $font-Flaticon-speaker-2: "\f14e";
+    $font-Flaticon-speaker-3: "\f14f";
+    $font-Flaticon-speaker-4: "\f150";
+    $font-Flaticon-speaker-5: "\f151";
+    $font-Flaticon-speaker-6: "\f152";
+    $font-Flaticon-speaker-7: "\f153";
+    $font-Flaticon-sportlights: "\f154";
+    $font-Flaticon-stage: "\f155";
+    $font-Flaticon-stage-1: "\f156";
+    $font-Flaticon-stage-equipment: "\f157";
+    $font-Flaticon-steps: "\f158";
+    $font-Flaticon-tamborine: "\f159";
+    $font-Flaticon-tent: "\f15a";
+    $font-Flaticon-ticket: "\f15b";
+    $font-Flaticon-toilet-paper: "\f15c";
+    $font-Flaticon-trombone: "\f15d";
+    $font-Flaticon-trumpet: "\f15e";
+    $font-Flaticon-turntable: "\f15f";
+    $font-Flaticon-violin: "\f160";
+    $font-Flaticon-vip: "\f161";
+    $font-Flaticon-washable-shoes: "\f162";
+    $font-Flaticon-water-bottle: "\f163";
